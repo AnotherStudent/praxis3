@@ -7,4 +7,4 @@
 
 **[1.4. Изучить и освоить комплекс физических упражнений для программиста]()**
 
-**[1.5. Гимнастика для глаз](https://github.com/AnotherStudent/praxis3/raw/master/1.5.%20%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B3%D0%BB%D0%B0%D0%B7.docx)
+[1.5. Гимнастика для глаз](https://github.com/AnotherStudent/praxis3/raw/master/1.5.%20%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B3%D0%BB%D0%B0%D0%B7.docx)
